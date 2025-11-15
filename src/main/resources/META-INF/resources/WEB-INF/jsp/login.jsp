@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Login</title>
+</head>
+<body>
+<div>
+<h2>Login</h2>
+<form method="post">
+<label>Username</label>
+<input type="text" name="username" />
+<label>Password</label>
+<input type="password" name="password" />
+<input type="submit" />
+</form>
+</div>
+</body>
+</html>
